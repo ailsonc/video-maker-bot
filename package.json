@@ -1,0 +1,23 @@
+{
+  "name": "video-maker-bot",
+  "version": "1.0.0",
+  "description": "Projeto acompanhando os vídeos do Filipe Deschamps",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ailsonc/video-maker-bot.git"
+  },
+  "author": "Ailson Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ailsonc/video-maker-bot/issues"
+  },
+  "homepage": "https://github.com/ailsonc/video-maker-bot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
