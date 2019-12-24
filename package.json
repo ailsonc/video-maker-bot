@@ -4,7 +4,7 @@
   "description": "Projeto acompanhando os vídeos do Filipe Deschamps",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ailsonc/video-maker-bot#readme",
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "algorithmia": "^0.3.10",
+    "readline-sync": "^1.4.10",
+    "sbd": "^1.0.16"
   }
 }
